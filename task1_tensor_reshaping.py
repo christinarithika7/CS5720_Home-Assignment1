@@ -1,7 +1,7 @@
 """
 Task 1: Tensor Manipulations & Reshaping
 CS5720 - Neural Networks and Deep Learning - Home Assignment 1
-Student Name: Christina Rithika
+Student Name: Vinay Kumar Christina Rithika Nethakani
 Student ID: 700778781
 
 Steps:
