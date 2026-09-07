@@ -1,10 +1,10 @@
 # CS5720 – Home Assignment 1
 ### Neural Networks and Deep Learning — Fall 2026
 
-**Student Name:** Christina Rithika
+**Student Name:** Vinay Kumar Christina Rithika Nethakani
 **Student ID:** 700778781
 **Course:** CS5720 Neural Network and Deep Learning
-**University:** University of Central Missouri
+
 
 ---
 
@@ -78,11 +78,5 @@ Then open the printed URL (usually `http://localhost:6006`) in your browser to v
 - Logs are saved under `logs/fit/`.
 - Written answers to the reflection questions (overfitting patterns, using TensorBoard to detect overfitting, effect of increasing epochs) are included as comments at the bottom of the script.
 
-## Video Demonstration
 
-_[Add your 2–3 minute video link here — demonstrating the code running and briefly explaining key snippets, per the assignment's submission requirements.]_
 
-## Notes
-
-- Remember to **comment your code** appropriately (already done in each script, but review the code so you can explain it fluently in your video).
-- Submit both your **GitHub repo link** and your **video** on Bright Space before the deadline.
